@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Sistema));
             this.panel1 = new System.Windows.Forms.Panel();
             this.marcador = new System.Windows.Forms.Panel();
@@ -69,6 +70,7 @@
             this.lblMensagem = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.lblmsgerro = new System.Windows.Forms.Label();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -88,7 +90,7 @@
             this.panel1.Controls.Add(this.btnCadastra);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(181, 502);
             this.panel1.TabIndex = 0;
@@ -97,7 +99,7 @@
             // 
             this.marcador.BackColor = System.Drawing.Color.Firebrick;
             this.marcador.Location = new System.Drawing.Point(1, 98);
-            this.marcador.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.marcador.Margin = new System.Windows.Forms.Padding(4);
             this.marcador.Name = "marcador";
             this.marcador.Size = new System.Drawing.Size(11, 41);
             this.marcador.TabIndex = 8;
@@ -111,7 +113,7 @@
             this.btnBusca.Image = global::SistemaCadastro.Properties.Resources._003_search;
             this.btnBusca.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnBusca.Location = new System.Drawing.Point(19, 147);
-            this.btnBusca.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnBusca.Margin = new System.Windows.Forms.Padding(4);
             this.btnBusca.Name = "btnBusca";
             this.btnBusca.Size = new System.Drawing.Size(153, 56);
             this.btnBusca.TabIndex = 5;
@@ -130,7 +132,7 @@
             this.btnCadastra.Image = global::SistemaCadastro.Properties.Resources.add;
             this.btnCadastra.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnCadastra.Location = new System.Drawing.Point(19, 94);
-            this.btnCadastra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnCadastra.Margin = new System.Windows.Forms.Padding(4);
             this.btnCadastra.Name = "btnCadastra";
             this.btnCadastra.Size = new System.Drawing.Size(153, 56);
             this.btnCadastra.TabIndex = 3;
@@ -146,7 +148,7 @@
             this.panel2.Controls.Add(this.panel3);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(181, 0);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(784, 26);
             this.panel2.TabIndex = 1;
@@ -154,7 +156,7 @@
             // panel3
             // 
             this.panel3.Location = new System.Drawing.Point(52, 44);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(146, 151);
             this.panel3.TabIndex = 2;
@@ -165,7 +167,7 @@
             this.panel4.Controls.Add(this.label1);
             this.panel4.Controls.Add(this.pictureBox1);
             this.panel4.Location = new System.Drawing.Point(279, 22);
-            this.panel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(157, 152);
             this.panel4.TabIndex = 2;
@@ -186,7 +188,7 @@
             // 
             this.pictureBox1.Image = global::SistemaCadastro.Properties.Resources.the_who;
             this.pictureBox1.Location = new System.Drawing.Point(8, 8);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(136, 99);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -200,7 +202,7 @@
             this.tabControl1.Controls.Add(this.tabAlterar);
             this.tabControl1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tabControl1.Location = new System.Drawing.Point(181, 181);
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(4);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(784, 321);
@@ -220,9 +222,9 @@
             this.tabCadastrar.Controls.Add(this.label2);
             this.tabCadastrar.Controls.Add(this.label4);
             this.tabCadastrar.Location = new System.Drawing.Point(4, 26);
-            this.tabCadastrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabCadastrar.Margin = new System.Windows.Forms.Padding(4);
             this.tabCadastrar.Name = "tabCadastrar";
-            this.tabCadastrar.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabCadastrar.Padding = new System.Windows.Forms.Padding(4);
             this.tabCadastrar.Size = new System.Drawing.Size(776, 291);
             this.tabCadastrar.TabIndex = 0;
             this.tabCadastrar.Text = "Cadastrar";
@@ -236,7 +238,7 @@
             this.bntAddGenero.Image = global::SistemaCadastro.Properties.Resources.add;
             this.bntAddGenero.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.bntAddGenero.Location = new System.Drawing.Point(719, 61);
-            this.bntAddGenero.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bntAddGenero.Margin = new System.Windows.Forms.Padding(4);
             this.bntAddGenero.Name = "bntAddGenero";
             this.bntAddGenero.Size = new System.Drawing.Size(30, 22);
             this.bntAddGenero.TabIndex = 15;
@@ -284,7 +286,7 @@
             this.BtnConfirmaCadastro.Image = global::SistemaCadastro.Properties.Resources.add;
             this.BtnConfirmaCadastro.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.BtnConfirmaCadastro.Location = new System.Drawing.Point(332, 200);
-            this.BtnConfirmaCadastro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BtnConfirmaCadastro.Margin = new System.Windows.Forms.Padding(4);
             this.BtnConfirmaCadastro.Name = "BtnConfirmaCadastro";
             this.BtnConfirmaCadastro.Size = new System.Drawing.Size(153, 56);
             this.BtnConfirmaCadastro.TabIndex = 13;
@@ -298,7 +300,7 @@
             // 
             this.txtintegrantes.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtintegrantes.Location = new System.Drawing.Point(154, 105);
-            this.txtintegrantes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtintegrantes.Margin = new System.Windows.Forms.Padding(4);
             this.txtintegrantes.Name = "txtintegrantes";
             this.txtintegrantes.Size = new System.Drawing.Size(560, 27);
             this.txtintegrantes.TabIndex = 11;
@@ -307,7 +309,7 @@
             // 
             this.txtnome.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtnome.Location = new System.Drawing.Point(154, 10);
-            this.txtnome.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtnome.Margin = new System.Windows.Forms.Padding(4);
             this.txtnome.Name = "txtnome";
             this.txtnome.Size = new System.Drawing.Size(560, 29);
             this.txtnome.TabIndex = 9;
@@ -358,9 +360,9 @@
             this.tabBuscar.Controls.Add(this.txtBusca);
             this.tabBuscar.Controls.Add(this.dgBandas);
             this.tabBuscar.Location = new System.Drawing.Point(4, 26);
-            this.tabBuscar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabBuscar.Margin = new System.Windows.Forms.Padding(4);
             this.tabBuscar.Name = "tabBuscar";
-            this.tabBuscar.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabBuscar.Padding = new System.Windows.Forms.Padding(4);
             this.tabBuscar.Size = new System.Drawing.Size(776, 291);
             this.tabBuscar.TabIndex = 1;
             this.tabBuscar.Text = "Buscar";
@@ -374,7 +376,7 @@
             this.btnAlterar.Image = ((System.Drawing.Image)(resources.GetObject("btnAlterar.Image")));
             this.btnAlterar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAlterar.Location = new System.Drawing.Point(553, 6);
-            this.btnAlterar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAlterar.Margin = new System.Windows.Forms.Padding(4);
             this.btnAlterar.Name = "btnAlterar";
             this.btnAlterar.Size = new System.Drawing.Size(122, 32);
             this.btnAlterar.TabIndex = 15;
@@ -393,7 +395,7 @@
             this.btnRemoveBanda.Image = ((System.Drawing.Image)(resources.GetObject("btnRemoveBanda.Image")));
             this.btnRemoveBanda.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnRemoveBanda.Location = new System.Drawing.Point(424, 6);
-            this.btnRemoveBanda.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnRemoveBanda.Margin = new System.Windows.Forms.Padding(4);
             this.btnRemoveBanda.Name = "btnRemoveBanda";
             this.btnRemoveBanda.Size = new System.Drawing.Size(122, 32);
             this.btnRemoveBanda.TabIndex = 14;
@@ -435,6 +437,7 @@
             this.dgBandas.RowTemplate.Height = 29;
             this.dgBandas.Size = new System.Drawing.Size(697, 218);
             this.dgBandas.TabIndex = 0;
+            this.dgBandas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgBandas_CellContentClick);
             // 
             // tabAlterar
             // 
@@ -495,7 +498,7 @@
             this.btnConfirmaAlteracao.Image = ((System.Drawing.Image)(resources.GetObject("btnConfirmaAlteracao.Image")));
             this.btnConfirmaAlteracao.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnConfirmaAlteracao.Location = new System.Drawing.Point(327, 214);
-            this.btnConfirmaAlteracao.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnConfirmaAlteracao.Margin = new System.Windows.Forms.Padding(4);
             this.btnConfirmaAlteracao.Name = "btnConfirmaAlteracao";
             this.btnConfirmaAlteracao.Size = new System.Drawing.Size(153, 56);
             this.btnConfirmaAlteracao.TabIndex = 22;
@@ -509,7 +512,7 @@
             // 
             this.txtAlteraIntegrantes.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtAlteraIntegrantes.Location = new System.Drawing.Point(149, 120);
-            this.txtAlteraIntegrantes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAlteraIntegrantes.Margin = new System.Windows.Forms.Padding(4);
             this.txtAlteraIntegrantes.Name = "txtAlteraIntegrantes";
             this.txtAlteraIntegrantes.Size = new System.Drawing.Size(560, 27);
             this.txtAlteraIntegrantes.TabIndex = 19;
@@ -518,7 +521,7 @@
             // 
             this.txtAlteraNome.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtAlteraNome.Location = new System.Drawing.Point(149, 26);
-            this.txtAlteraNome.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAlteraNome.Margin = new System.Windows.Forms.Padding(4);
             this.txtAlteraNome.Name = "txtAlteraNome";
             this.txtAlteraNome.Size = new System.Drawing.Size(560, 29);
             this.txtAlteraNome.TabIndex = 17;
@@ -577,7 +580,7 @@
             this.button2.Image = global::SistemaCadastro.Properties.Resources.close;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button2.Location = new System.Drawing.Point(909, 29);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(52, 49);
             this.button2.TabIndex = 8;
@@ -596,6 +599,11 @@
             this.lblmsgerro.TabIndex = 10;
             this.lblmsgerro.Text = "*";
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
             // Sistema
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -610,7 +618,7 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Sistema";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form2";
@@ -675,5 +683,6 @@
         private System.Windows.Forms.Button bntAddGenero;
         private System.Windows.Forms.ComboBox cbAlteraGenero;
         private System.Windows.Forms.Label lblmsgerro;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
     }
 }
