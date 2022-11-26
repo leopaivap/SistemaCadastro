@@ -115,7 +115,7 @@ namespace SistemaCadastro
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("idbanda", idbanda);
             cmd.Parameters.AddWithValue("nome", b.Nome);
-            cmd.Parameters.AddWithValue("genero", b.Genero);
+            cmd.Parameters.AddWithValue("fk_genero", b.Genero);
             cmd.Parameters.AddWithValue("integrantes", b.Integrantes);
             cmd.Parameters.AddWithValue("ranking", b.Ranking);
             try

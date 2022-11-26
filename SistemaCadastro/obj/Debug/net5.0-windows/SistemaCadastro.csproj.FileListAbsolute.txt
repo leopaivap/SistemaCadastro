@@ -187,3 +187,31 @@ C:\Users\02210412650\Desktop\Projeto0311\SistemaCadastro\obj\Debug\net5.0-window
 C:\Users\02210412650\Desktop\Projeto0311\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
 C:\Users\02210412650\Desktop\Projeto0311\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
 C:\Users\02210412650\Desktop\Projeto0311\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.exe
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.deps.json
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.json
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Properties.Resources.resources
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Sistema.resources
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfo.cs
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CopyComplete
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\refint\SistemaCadastro.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.FrmAddGenero1.resources

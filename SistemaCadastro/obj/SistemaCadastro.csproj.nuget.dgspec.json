@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\02210412650\\Desktop\\Projeto0311\\SistemaCadastro\\SistemaCadastro.csproj": {}
+    "C:\\Users\\leona\\Documents\\Project Banda C#\\SistemaCadastro\\SistemaCadastro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\02210412650\\Desktop\\Projeto0311\\SistemaCadastro\\SistemaCadastro.csproj": {
+    "C:\\Users\\leona\\Documents\\Project Banda C#\\SistemaCadastro\\SistemaCadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\02210412650\\Desktop\\Projeto0311\\SistemaCadastro\\SistemaCadastro.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\Documents\\Project Banda C#\\SistemaCadastro\\SistemaCadastro.csproj",
         "projectName": "SistemaCadastro",
-        "projectPath": "C:\\Users\\02210412650\\Desktop\\Projeto0311\\SistemaCadastro\\SistemaCadastro.csproj",
-        "packagesPath": "C:\\Users\\02210412650\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\02210412650\\Desktop\\Projeto0311\\SistemaCadastro\\obj\\",
+        "projectPath": "C:\\Users\\leona\\Documents\\Project Banda C#\\SistemaCadastro\\SistemaCadastro.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leona\\Documents\\Project Banda C#\\SistemaCadastro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\02210412650\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -55,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

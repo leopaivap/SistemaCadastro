@@ -178,7 +178,10 @@ namespace SistemaCadastro
 
         private void bntAddGenero_Click(object sender, EventArgs e)
         {
-          
+            FrmAddGenero1 frmAddGenero1 = new FrmAddGenero1();
+            this.Hide();
+            frmAddGenero1.ShowDialog();
+            this.Close();
         }
 
         private void txtnome_TextChanged(object sender, EventArgs e)
