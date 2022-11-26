@@ -215,3 +215,4 @@ C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windo
 C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
 C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
 C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.FrmAddGenero1.resources
+C:\Users\leona\Documents\Project Banda C#\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.FrmLogincs.resources
